@@ -103,7 +103,7 @@ const FileUpload: React.FC = () => {
             style={{ display: 'none' }} // Hide the file input
           />
           {acceptedFiles.length > 0 ? (
-            <p className="text-gray-500">Selected File: {acceptedFiles[0].name}</p>
+            <p className="text-gray-500 md:max-w-lg max-w-md">Selected File: {acceptedFiles[0].name}</p>
           ) : (
             <p className="text-gray-500">Drag & drop a PDF file here, or click to select one</p>
           )}
