@@ -1,6 +1,6 @@
 import axios from "axios";
 import { toast } from "sonner";
-import { getCurrentDate } from "./CurrentDate";
+
 
 const Key = import.meta.env.VITE_STATIC_API_KEY;
 
