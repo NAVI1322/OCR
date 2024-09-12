@@ -6,7 +6,7 @@ export async function AIApiCall(data:string)
 
 try{
    
-        const res = await axios.post(`http://localhost:3000/api/v1/pdfSum/Summarizer`,{
+        const res = await axios.post(`https://neatpdf.onrender.com/api/v1/pdfSum/Summarizer`,{
             prompt:data,
         })
 
