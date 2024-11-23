@@ -14,7 +14,7 @@ Clone the repository and install the dependencies:
 git clone https://github.com/yourusername/pdf-field-processor.git
 cd pdf-field-processor
 npm install
-```bash
+
 
 
 Usage
@@ -26,9 +26,9 @@ export OPEN_AI_KEY='Your-OpenAI-API-Key'
 
 Run the script by specifying the path to your PDF:
 
-```bash 
+ 
 node ocr.js
-```bash
+
 
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
