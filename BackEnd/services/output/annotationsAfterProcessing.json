@@ -1,0 +1,272 @@
+[
+  {
+    "id": "67R",
+    "fieldType": "Tx",
+    "fieldName": "bonds[bond_number]",
+    "value": "",
+    "rect": [
+      485.16,
+      741.6,
+      575.16,
+      756.12
+    ],
+    "page": 1,
+    "surroundingText": "Left: PRESENTS  ANNUAL PERFORMANCE BOND ,   That   we   BOND NUMBER: ## fieldName:bonds[bond_number] ## Right: N/A",
+    "tooltip": "Enter the bond number"
+  },
+  {
+    "id": "68R",
+    "fieldType": "Tx",
+    "fieldName": "principals[company_name]",
+    "value": "",
+    "rect": [
+      319.56,
+      671.88,
+      474.6,
+      686.4
+    ],
+    "page": 1,
+    "surroundingText": "Left: e That d   t o do busin   we ## fieldName:principals[company_name] ## Right: N/A",
+    "tooltip": "Enter the name of the principal company"
+  },
+  {
+    "id": "69R",
+    "fieldType": "Tx",
+    "fieldName": "and",
+    "value": "",
+    "rect": [
+      54.48,
+      656.04,
+      209.04,
+      670.56
+    ],
+    "page": 1,
+    "surroundingText": "Left: and and fi St assigns, jointly and severally, firmly by this Bond.  KNOW   ate ## fieldName:and ## Right: t o do busin   we     es   s in",
+    "tooltip": "Enter the name of the surety company"
+  },
+  {
+    "id": "70R",
+    "fieldType": "Tx",
+    "fieldName": "authorized to do business in the State of",
+    "value": "",
+    "rect": [
+      413.52,
+      656.04,
+      480.12,
+      670.56
+    ],
+    "page": 1,
+    "surroundingText": "Left: S   t   a te   of ## fieldName:authorized to do business in the State of ## Right: N/A",
+    "tooltip": "Enter the state where the business is authorized to operate"
+  },
+  {
+    "id": "71R",
+    "fieldType": "Tx",
+    "fieldName": "and  firmly  bound unto 1",
+    "value": "",
+    "rect": [
+      158.64,
+      640.32,
+      350.16,
+      654.84
+    ],
+    "page": 1,
+    "surroundingText": "Left: bound un   BY   THESE t   o ## fieldName:and  firmly  bound unto 1 ## Right: P   rin   c   ipal,",
+    "tooltip": "Enter the name of the obligee"
+  },
+  {
+    "id": "72R",
+    "fieldType": "Tx",
+    "fieldName": "and  firmly  bound unto 2",
+    "value": "",
+    "rect": [
+      36,
+      624.6,
+      418.8,
+      639.12
+    ],
+    "page": 1,
+    "surroundingText": "Left: N/A ## fieldName:and  firmly  bound unto 2 ## Right: conditions as Surety, are held ,   as     P",
+    "tooltip": "Enter the name of the obligee"
+  },
+  {
+    "id": "73R",
+    "fieldType": "Tx",
+    "fieldName": "contract namenumber and date",
+    "value": "",
+    "rect": [
+      36,
+      530.16,
+      388.92,
+      544.68
+    ],
+    "page": 1,
+    "surroundingText": "Left: N/A ## fieldName:contract namenumber and date ## Right: and   conditions   of   the",
+    "tooltip": "Enter the contract name, number, and date"
+  },
+  {
+    "id": "74R",
+    "fieldType": "Tx",
+    "fieldName": "DATED",
+    "value": "",
+    "rect": [
+      430.44,
+      530.16,
+      556.08,
+      544.68
+    ],
+    "page": 1,
+    "surroundingText": "Left: under   the D   A     TED terms ## fieldName:DATED ## Right: N/A",
+    "tooltip": "Enter the date of the contract"
+  },
+  {
+    "id": "75R",
+    "fieldType": "Tx",
+    "fieldName": "definite period from",
+    "value": "",
+    "rect": [
+      137.28,
+      387.96,
+      261.96,
+      402.48
+    ],
+    "page": 1,
+    "surroundingText": "Left: definite period from 2. periods from the expiry date hereof. However, neither: (a) the Surety’s decision not to issue a continuation certificate, nor (b) the failure or inability of the Principal to file a replacement bond or other security in the event the Surety exercises its right to not renew this Bond, shall itself constitute a loss to the Obligee recoverable     The Bond may be extended, at the sole option of the Surety, by continuation certificate/rider for additional Whereas, the Obligee has agreed to accept this Annual Performance Bond and shall be effective for the ## fieldName:definite period from ## Right: .",
+    "tooltip": "Enter the start date of the bond period"
+  },
+  {
+    "id": "76R",
+    "fieldType": "Tx",
+    "fieldName": "to",
+    "value": "",
+    "rect": [
+      278.28,
+      387.96,
+      427.56,
+      402.48
+    ],
+    "page": 1,
+    "surroundingText": "Left: periods from the expiry date hereof. However, neither: (a) the Surety’s decision not to issue a continuation certificate, nor (b) the failure or inability of the Principal to file a replacement bond or other security in the event the Surety exercises its right to not renew this Bond, shall itself constitute a loss to the Obligee recoverable     The Bond may be extended, at the sole option of the Surety, by continuation certificate/rider for additional Whereas, the Obligee has agreed to accept this Annual Performance Bond and shall be effective for the   to ## fieldName:to ## Right: N/A",
+    "tooltip": "Enter the end date of the bond period"
+  },
+  {
+    "id": "77R",
+    "fieldType": "Tx",
+    "fieldName": "by rider annually in the amount of",
+    "value": "",
+    "rect": [
+      204.48,
+      150.72,
+      419.64,
+      165.24
+    ],
+    "page": 1,
+    "surroundingText": "Left: of this   B ond.   S ure ty   Addr ## fieldName:by rider annually in the amount of ## Right: conditions as Surety, are held ,   as     P",
+    "tooltip": "Enter the annual increase amount of the bond"
+  },
+  {
+    "id": "78R",
+    "fieldType": "Tx",
+    "fieldName": "percent",
+    "value": "",
+    "rect": [
+      465.36,
+      150.72,
+      486.48,
+      165.24
+    ],
+    "page": 1,
+    "surroundingText": "Left: ond.   S ure ty   Addr   e ss: ## fieldName:percent ## Right: N/A",
+    "tooltip": "Enter the percentage of the minimum annual guarantee"
+  },
+  {
+    "id": "79R",
+    "fieldType": "Tx",
+    "fieldName": "expiry date of this Bond Surety Address",
+    "value": "",
+    "rect": [
+      240.72,
+      76.2,
+      498,
+      90.24
+    ],
+    "page": 1,
+    "surroundingText": "Left: ond.   S ure ty   Addr   e ss: ## fieldName:expiry date of this Bond Surety Address ## Right: N/A",
+    "tooltip": "Enter the expiry date of the bond and the surety's address"
+  },
+  {
+    "id": "18R",
+    "fieldType": "Tx",
+    "fieldName": "Signed Sealed and Dated this",
+    "value": "",
+    "rect": [
+      185.4,
+      586.2,
+      220.68,
+      615
+    ],
+    "page": 2,
+    "surroundingText": "Left: Contract or to the work or to the specifications. Notwithstanding the foregoing, a change or modification to the Contract that will require an increase or decrease in the value of the bond, Contractor will secure the Surety’s consent prior to executing said change or modification.  Signed, Sealed and Dated this  PRINCIPAL: ## fieldName:Signed Sealed and Dated this ## Right: N/A",
+    "tooltip": "Enter the date of signing and sealing the bond"
+  },
+  {
+    "id": "19R",
+    "fieldType": "Tx",
+    "fieldName": "day of",
+    "value": "",
+    "rect": [
+      257.4,
+      586.2, 
+      347.04,
+      615
+    ],
+    "page": 2,
+    "surroundingText": "Left: increase or decrease in the value of the bond, Contractor will secure the Surety’s consent prior to executing said change or modification.  Signed, Sealed and Dated this  PRINCIPAL:     day of ## fieldName:day of ## Right: N/A",
+    "tooltip": "Enter the day of the month when the bond was signed and sealed"
+  },
+  {
+    "id": "20R",
+    "fieldType": "Tx",
+    "fieldName": "BY",
+    "value": "",
+    "rect": [
+      57.6,
+      443.88,
+      243.12,
+      472.68
+    ],
+    "page": 2,
+    "surroundingText": "Left: BY: ## fieldName:BY ## Right: , Attorney‐In‐Fact",
+    "tooltip": "Enter the name of the person signing on behalf of the Principal."
+  },
+  {
+    "id": "21R",
+    "fieldType": "Tx",
+    "fieldName": "SURETY",
+    "value": "",
+    "rect": [
+      288,
+      506.76,
+      527.28,
+      535.56
+    ],
+    "page": 2,
+    "surroundingText": "Left: PRINCIPAL:  BY:     SURETY: ## fieldName:SURETY ## Right: N/A",
+    "tooltip": "Enter the name of the Surety."
+  },
+  {
+    "id": "22R",
+    "fieldType": "Tx",
+    "fieldName": "BY_2",
+    "value": "",
+    "rect": [
+      309.6,
+      443.88,
+      507.12,
+      472.68
+    ],
+    "page": 2,
+    "surroundingText": "Left: BY:   BY: ## fieldName:BY_2 ## Right: N/A",
+    "tooltip": "Enter the name of the person signing on behalf of the Surety."
+  }
+]

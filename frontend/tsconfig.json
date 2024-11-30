@@ -8,10 +8,14 @@
       "path": "./tsconfig.node.json"
     }
   ],
+  
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
-    }
+      "@/*": ["./src/*"],
+      "*": ["node_modules/*", "src/@types/*"]  // Add this line
+    },
+    "skipLibCheck": true, // Optional: Skip type checking for libraries
+    "strict": true // Optional: Enable strict type checking
   }
 }

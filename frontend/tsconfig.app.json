@@ -26,5 +26,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src", "../BackEnd/controller/multerFIle.js", "../BackEnd/controller/OCR.js"]
 }
